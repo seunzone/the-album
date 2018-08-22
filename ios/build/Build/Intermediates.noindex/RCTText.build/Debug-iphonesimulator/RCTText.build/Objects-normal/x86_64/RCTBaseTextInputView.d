@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/andeladeveloper/Documents/the-album/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.m \
+  /Users/andeladeveloper/Documents/the-album/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/andeladeveloper/Documents/the-album/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/andeladeveloper/Documents/the-album/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/andeladeveloper/Documents/the-album/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/andeladeveloper/Documents/the-album/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h \
+  /Users/andeladeveloper/Documents/the-album/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryViewContent.h \
+  /Users/andeladeveloper/Documents/the-album/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/andeladeveloper/Documents/the-album/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Users/andeladeveloper/Documents/the-album/node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.h
