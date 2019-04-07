@@ -6,7 +6,7 @@ class AlbumList extends Component {
 
   state = { albums: [] };
 
-  componentWillMount() {
+  componentDidMount() {
     fetch('https://rallycoding.herokuapp.com/api/music_albums')
     .then((response) => response.json())
     .then((responseData) => {
